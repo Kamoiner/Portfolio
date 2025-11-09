@@ -1,6 +1,6 @@
 Home = `<div class = "sidebox" onClick="SetCon(HomeCon)"> Home </div>`;
 
-HomeCon = `<p style="font-size: 150%; display: block; text-align: center; margin: auto; width: 80%;">
+HomeCon = `<p style="font-size: 150%; display: block; padding-top: 50px; margin: auto; width: 80%;">
 This website is a representation of some of the work that I have done. 
 <br>
 My resume is available via the resume tab, you can read a little bit about me on the about me page, and you can 
